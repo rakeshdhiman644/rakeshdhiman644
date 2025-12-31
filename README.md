@@ -28,8 +28,7 @@ I have 6+ years of experience building scalable web applications, e-commerce pla
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-kumar-881176177  
-- 🧑‍💻 GitHub: https://github.com/rakeshdhiman644  
+- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-kumar-881176177
 - ✉️ Email: rakeshdhiman423@gmail.com  
 
 ---
