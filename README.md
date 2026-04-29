@@ -8,11 +8,11 @@ I have 6+ years of experience building scalable web applications, e-commerce pla
 
 ## 🚀 Tech Stack
 
-**Frontend:** Next.js, HTML5, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, Sass  
-**Backend:** Laravel, Core PHP, REST APIs  
-**CMS:** WordPress (Theme & Plugin Customization)  
+**Frontend:** Next.js, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS, Sass  
+**Backend:** Laravel, Core PHP, RESTful APIs
+**CMS:** WordPress (Theme and Plugin Customization)  
 **Database:** MySQL  
-**Tools:** Git, GitHub
+**Tools:** GitHub
 
 ---
 
