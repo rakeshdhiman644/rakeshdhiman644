@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rakesh Kumar
 
-**Full-Stack Web Developer | Laravel • Next.js • WordPress**
+**Full-Stack Web Developer | PHP | Laravel | WordPress |  WooCommerce | Next.js | React.js | JavaScript | RESTful APIs Development**
 
 I have 6+ years of experience building scalable web applications, e-commerce platforms, and custom business solutions. I specialize in Laravel, Next.js, and WordPress development — focusing on performance, clean architecture, and real-world usability.
 
