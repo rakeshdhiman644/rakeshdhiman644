@@ -8,11 +8,13 @@ I have 6+ years of experience building scalable web applications, e-commerce pla
 
 ## 🚀 Tech Stack
 
-**Frontend:** Next.js, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS, Sass  
-**Backend:** Laravel, Core PHP, RESTful APIs  
-**CMS:** WordPress (Theme and Plugin Customization)  
-**Database:** MySQL  
-**Tools:** GitHub
+**Frontend:** HTML5 | CSS | Bootstrap | Tailwind CSS | SCSS| JavaScript | jQuery | Next.js | Cross-
+browser Compatibility  
+**Backend:** Core PHP | RESTful APIs Development | Laravel (PHP) | Server-side Rendering  
+**CMS:** WordPress (Theme and Plugin Development, Customization) | Shopify (Theme Customisation)  
+**Database:** MySQL, Query Optimization, Database Design  
+**Tools:** Git | GitHub | VS Code IDE | Antigravity AI IDE | Cursor AI IDE | CodeRabbit AI-powered code
+review tool
 
 ---
 
