@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 🚀 Full-Stack Web Developer from India 🇮🇳
+### 🚀 Full-Stack Web Developer from India
 
 I'm a passionate **Full-Stack Web Developer** with **6.5+ years of experience** building scalable web applications, custom WordPress plugins, WooCommerce solutions, and modern Laravel & Next.js applications.
 
